@@ -1,0 +1,10 @@
+Juan García Sanz
+Analista programador
+1 8 2014
+FIJO
+3201.4 3102.1 3305.2 3003.5 3204.6 3715.1 3216.0 3117.4 3228.1 3109.5 3120.7 3001.9
+Irene González Alegría
+Jefa Departamento Recursos Humanos
+10 12 2018
+FIJA
+3802.4 3901.1 3706.4 3903.1 3874.1 3816.3 3618.1 3517.4 3681.2 3699.2 3520.6 3812.5
